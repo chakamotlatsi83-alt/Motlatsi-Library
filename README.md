@@ -1,7 +1,7 @@
 # Maseru District Library Management System
 Assignment 4 - React + Express + MySQL
 
-## Student: [MOTLATSI CHAKA 901020598]
+## Student: MOTLATSI CHAKA 901020598
 ## Tech Stack
 - Frontend: React (Hooks, Router, Fetch API), CSS
 - Backend: Express.js REST API
